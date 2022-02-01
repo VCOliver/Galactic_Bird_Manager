@@ -1,5 +1,6 @@
 # Galactic_Bird_Manager
 A simple college project in C to manage space flight reservations
+It creates a Data Base in a .txt file that can also be easily visualized by the user in case they desire so.
 
 ## Context
 It's the year 2030. Billionaire Jeff Elon Branson begins suborbital voyages of his most
