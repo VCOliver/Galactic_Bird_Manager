@@ -1,0 +1,16 @@
+#pragma once
+
+typedef enum{
+    INIT,
+    MENU,
+    CREATE_FLIGHT,
+    CREATE_BOOKING,
+    SEE_FLIGHT,
+    SEE_BOOKING,
+    SEE_PASSENGER,
+    CANCEL_FLIGHT,
+    CANCEL_BOOKING,
+    DELETE_FLIGHT,
+    EXIT_PROGRAM,
+    INPUT_ERROR
+} Status;
